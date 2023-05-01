@@ -162,11 +162,7 @@ footer li:hover{
     border-style:ridge;
     border-color: floralwhite;
      }  
-     
-    textarea
-    {
-     width:100%;
-    }
+
 
 nav ul{
     margin-top: 10px;
@@ -199,4 +195,6 @@ img{
     border: 2px solid #af599e;
     color: #af599e;
     transition: 1.5s;
+}
+
 }
