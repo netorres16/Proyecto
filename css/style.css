@@ -171,6 +171,7 @@ nav ul{
 main{
     padding: 30px;
 }
+
 img{
     max-width: 15rem;
     border-radius: 50%;
@@ -188,13 +189,13 @@ img{
     margin: 70px 70px;
     color: #fff;
     text-decoration: none;
-
 }
+
 .Boton:hover{
     background-color: transparent;
     border: 2px solid #af599e;
     color: #af599e;
     transition: 1.5s;
 }
-
 }
+
